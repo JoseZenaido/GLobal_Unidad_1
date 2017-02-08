@@ -7,7 +7,7 @@ import android.graphics.Paint;
 import android.graphics.Path;
 
 /**
- * Created by juan- on 12/09/2016.
+ * Created by
  */
 public class Encendido3 extends Control3 {
     @Override

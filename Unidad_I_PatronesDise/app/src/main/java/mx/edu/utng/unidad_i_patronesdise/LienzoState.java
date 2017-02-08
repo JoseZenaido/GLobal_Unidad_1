@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.view.View;
 
-/**
- * Created by qas on 6/09/16.
- */
+
 public class LienzoState extends View {
 
     private ControlComida estado;

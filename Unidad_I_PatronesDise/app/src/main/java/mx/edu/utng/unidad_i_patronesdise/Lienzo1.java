@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.view.View;
 
-/**
- * Created by juan- on 11/09/2016.
- */
+
 public class Lienzo1 extends View{
     private Control1 estado;
     private Foco foco;

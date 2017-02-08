@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.view.View;
 
-/**
- * Created by jony on 8/9/2016.
- */
+
 public class Lienzo2 extends View {
 
     private Estrella2 estrella;

@@ -2,9 +2,7 @@ package mx.edu.utng.unidad_i_patronesdise;
 
 import android.graphics.Canvas;
 
-/**
- * Created by qas on 6/09/16.
- */
+
 public class LeonState {
     private ControlComida estado;
     private Canvas canvas;

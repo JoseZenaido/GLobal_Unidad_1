@@ -5,9 +5,6 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
 
-/**
- * Created by qas on 19/02/16.
- */
 public class Triangulo implements Figura {
     @Override
     public void dibujar(Canvas canvas) {

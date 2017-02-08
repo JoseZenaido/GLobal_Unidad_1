@@ -4,7 +4,7 @@ import android.graphics.Canvas;
 import android.view.View;
 
 /**
- * Created by qas on 12/02/16.
+ * Created
  */
 public interface Figura {
   void dibujar(Canvas canvas);

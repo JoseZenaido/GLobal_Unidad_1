@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.view.View;
 
-/**
- * Created by qas on 19/02/16.
- */
+
 public class Lienzo5 extends View{
     private Figura figura;
 

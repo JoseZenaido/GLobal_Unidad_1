@@ -3,7 +3,7 @@ package mx.edu.utng.unidad_i_patronesdise;
 import android.graphics.Canvas;
 
 /**
- * Created by juan- on 11/09/2016.
+ * Create by
  */
 public class Foco {
 

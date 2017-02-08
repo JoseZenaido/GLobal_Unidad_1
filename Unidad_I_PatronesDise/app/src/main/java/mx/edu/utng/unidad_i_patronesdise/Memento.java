@@ -1,8 +1,5 @@
 package mx.edu.utng.unidad_i_patronesdise;
 
-/**
- * Created by jony on 8/9/2016.
- */
 public class Memento {
     private int color;
 

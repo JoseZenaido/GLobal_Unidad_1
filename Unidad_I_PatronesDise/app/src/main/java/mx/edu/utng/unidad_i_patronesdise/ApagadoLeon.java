@@ -6,7 +6,7 @@ import android.graphics.Paint;
 import android.graphics.Path;
 
 /**
- * Created by qas on 6/09/16.
+ * Created by
  */
 public class ApagadoLeon extends ControlComida {
     @Override

@@ -4,7 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 
 /**
- * Created by qas on 12/02/16.
+ * Created
  */
 public class FiguraFactory {
     private Figura figura;

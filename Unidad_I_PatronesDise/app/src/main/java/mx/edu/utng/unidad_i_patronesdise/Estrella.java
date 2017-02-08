@@ -6,7 +6,7 @@ import android.graphics.Paint;
 import android.graphics.Path;
 
 /**
- * Created by qas on 19/02/16.
+ * Created by
  */
 public class Estrella implements Figura{
 
