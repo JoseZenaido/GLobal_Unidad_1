@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mx.edu.utng.unidad_i_patronesdise">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="APP"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SingletonActivity1"
+            android:label="Singleton: Mouse" />
+        <activity
+        android:name=".SingletonActivity2"
+        android:label="Singleton: Persona" />
+        <activity
+        android:name=".SingletonActivity3"
+        android:label="Singleton: Botella" />
+        <activity
+            android:name=".SingletonActivity4"
+            android:label="Singleton: Lapicero" />
+        <activity
+        android:name=".SingletonActivity5"
+        android:label="Singleton: Disco Duro" />
+        <activity
+        android:name=".PrototypeActivity6"
+        android:label="Prototype: Auto" />
+        <activity
+            android:name=".PrototypeActivity7"
+            android:label="Prototype: Casa" />
+        <activity
+            android:name=".PrototypeActivity8"
+            android:label="Prototype: Puerta" />
+        <activity
+            android:name=".PrototypeActivity9"
+            android:label="Prototype: Television" />
+        <activity
+            android:name=".PrototypeActivity10"
+            android:label="Prototype: Bicicleta" />
+        <activity
+            android:name=".StateActivity11"
+            android:label="State: Leon" />
+        <activity
+            android:name=".StateActivity12"
+            android:label="State: Reloj" />
+        <activity
+            android:name=".StateActivity13"
+            android:label="State: Foco" />
+        <activity
+            android:name=".StateActivity14"
+            android:label="State: Bateria" />
+        <activity
+            android:name=".StateActivity15"
+            android:label="State: Bandera" />
+        <activity
+            android:name=".FactoryActivity16"
+            android:label="Factory: Figuras" />
+        <activity
+            android:name=".FactoryActivity17"
+            android:label="Factory: Casa" />
+        <activity
+            android:name=".MementoActivity18"
+            android:label="Memento: Estrella" />
+        <activity
+            android:name=".MementoActivity19"
+            android:label="Memento: Arbol" />
+        <activity
+            android:name=".MementoActivity20"
+            android:label="Memento: VASO" />
+
+
+    </application>
+
+</manifest>
